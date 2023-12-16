@@ -1,7 +1,6 @@
 # Fullbright For Any Unreal Engine 4 Games
 
 # INSTRUCTIONS:
-# TUTORIAL FOR FULLBRIGHT ( VANILLA FULLBRIGHT) :
 
 # Download The unlocker. :
 # https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm#downloading-the-uuu
