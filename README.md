@@ -24,7 +24,11 @@ type this command :
 
 Alternative to this command if it still locked
 
+to go to the next viewmode
 # nextviewmode
+
+ to go back to precedent viewmode
+# prevviewmode 
 
 You can scroll between viewmodes with this command , pick the best one out of it.
 
