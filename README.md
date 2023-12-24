@@ -5,8 +5,9 @@
 # Download The unlocker. :
 # https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm#downloading-the-uuu
 
-go in this folder : %localappdata%\freddys\Saved\Config\WindowsNoEditor\
-Edit the file called `" Engine.ini "`
+Find where the game is saving it's savegame and the rest, and then find the WindowsNoEditor folder.
+
+Look and Edit the file called `" Engine.ini "`
 paste this at the end .
 
     [/Script/Engine.RendererSettings]                                                              
